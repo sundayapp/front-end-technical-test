@@ -15,4 +15,4 @@ Run the tests with
 ```yarn test```
 
 Run the application with
-```yarn start```
+```yarn dev```
